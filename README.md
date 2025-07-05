@@ -1,7 +1,7 @@
 # 👋 Привет! Я Drinity Lutsenko
 **Студент 2 курса | Backend Разработчик **
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](@Lendor456))
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)]([@Lendor456](https://t.me/Lendor456))
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
